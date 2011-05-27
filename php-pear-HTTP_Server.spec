@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.4.0
-Release:	%mkrel 12
+Release:	%mkrel 13
 Summary:	HTTP server class
 License:	PHP License
 Group:		Development/PHP
