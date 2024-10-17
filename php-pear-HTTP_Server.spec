@@ -8,7 +8,7 @@ Release:	16
 Summary:	HTTP server class
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/HTTP_Server/
+URL:		https://pear.php.net/package/HTTP_Server/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
